@@ -1,0 +1,21 @@
+text,label
+"Your Netflix account has been suspended. Click here to update payment details.",phishing
+"We detected unauthorized login attempts. Verify your Apple ID now.",phishing
+"Act fast! You’ve been selected for a cash prize. Enter your info.",phishing
+"Dear Customer, your PayPal account is on hold. Update your credentials.",phishing
+"Package delivery failed. Reschedule here: [phishing link]",phishing
+"Confirm your email for security reasons. Login immediately.",phishing
+"Your Gmail storage is full. Increase limit by clicking here.",phishing
+"We received a request to reset your password. Ignore if not you.",phishing
+"Government relief funds available. Apply now.",phishing
+"New job opportunities for you! View details and apply.",phishing
+"Reminder: Project deadline extended to next Friday.",legitimate
+"Hi John, attached is the invoice from last month.",legitimate
+"Let's have a quick sync tomorrow at 10 AM.",legitimate
+"Team lunch is scheduled for Thursday at 1 PM.",legitimate
+"The latest company newsletter is out. Please read.",legitimate
+"Client call rescheduled to next Tuesday.",legitimate
+"Welcome to the team! Here’s your onboarding guide.",legitimate
+"Join us for a webinar on AI in healthcare.",legitimate
+"Please review the attached report and provide feedback.",legitimate
+"Happy birthday! Wishing you a wonderful year ahead.",legitimate
